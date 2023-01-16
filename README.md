@@ -1,3 +1,4 @@
+[Portofolio SQL.pdf](https://github.com/lailabudianti/Many-to-Many-Relationship/files/10422386/Portofolio.SQL.pdf)
 # Many-to-Many-Relationship
 A many-to-many relationship refers to a relationship between tables in a database when a parent row in one table contains several child rows in the second table and vice versa. Many-to-many relationships are often tricky to represent. The many-to-many relationship is usually a mirror of the real-life relationship between the objects of the two tables represent.
 
